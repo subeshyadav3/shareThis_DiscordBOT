@@ -11,8 +11,10 @@
   },
   "dependencies": {
     "@prisma/client": "^6.8.2",
+    "@shadcn/ui": "^0.0.4",
     "discord.js": "^14.19.3",
     "dotenv": "^16.5.0",
+    "lucide-react": "^0.511.0",
     "next": "15.3.2",
     "prisma": "^6.8.2",
     "react": "^19.0.0",
